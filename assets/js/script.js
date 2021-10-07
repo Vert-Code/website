@@ -70,7 +70,7 @@ var teamMemberArray = [
     {
         title: 'Vanished',
         username: 'Vanished',
-        discriminator: '1111',
+        discriminator: '9049',
         description: `<div id="gameContainer" style="text-align: center;">
     0️⃣<br />
     <br />
@@ -254,7 +254,7 @@ var teamMemberArray = [
     },  
     {
         title: 'Arie',
-        username: 'Qynx',
+        username: 'Arie',
         discriminator: '2222',
         description: '👋 Hai! My name\'s Arie and I\'m a digital artist & femboy. I also help out with administrating a safe community over at <b>Owners Hub</b>.',
         role: 'Administrator',
@@ -269,16 +269,7 @@ var teamMemberArray = [
         role: 'Web Developer',
         avatar: 'assets/img/team/avatars/drag.gif',
         banner: 'assets/img/team/banners/drag.jpg'
-    }, 
-    {
-        title: 'Ghostwolf',
-        username: 'ghostwolf',
-        discriminator: '5420',
-        description: 'Ghostwolf didn\'t provide a bio because he was listening to <a tag="underline" href="https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP">this album</a> the whole time.',
-        role: 'Moderator/Bot Developer',
-        avatar: 'assets/img/team/avatars/ghostwolf.png',
-        banner: 'assets/img/team/banners/ghostwolf.jpg'
-    },   
+    },
     {
         title: 'Pauel',
         username: 'pauel',
